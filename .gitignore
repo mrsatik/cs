@@ -1,0 +1,7 @@
+.idea
+.buildpath
+.project
+.settings
+vendor
+.phpunit.result.cache
+build

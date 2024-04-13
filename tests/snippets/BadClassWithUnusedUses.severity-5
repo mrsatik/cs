@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------------------------------------------------
+FOUND 16 ERRORS AFFECTING 14 LINES
+-------------------------------------------------------------------------------------------------------------------------
+  5 | ERROR | [x] using Some\Space\ClassFromCurrentNamespace when already inside the Some\Space namespace is unnecessary
+  8 | ERROR | [x] UnusedImport is unused
+ 10 | ERROR | [x] UnusedGlobalClassForPHPCode is unused
+ 10 | ERROR | [ ] Import statements must not begin with a leading backslash
+ 11 | ERROR | [x] UnusedGlobalClassForPHPDoc is unused
+ 11 | ERROR | [ ] Import statements must not begin with a leading backslash
+ 12 | ERROR | [ ] Import statements must not begin with a leading backslash
+ 13 | ERROR | [ ] Import statements must not begin with a leading backslash
+ 14 | ERROR | [x] UnusedWithoutNamespace is unused
+ 21 | ERROR | [x] UnusedNS is unused
+ 47 | ERROR | [x] There must not be a space before the colon in a return type declaration
+ 51 | ERROR | [x] Parentheses must be used when instantiating a new class
+ 52 | ERROR | [x] Parentheses must be used when instantiating a new class
+ 53 | ERROR | [x] Parentheses must be used when instantiating a new class
+ 54 | ERROR | [x] Parentheses must be used when instantiating a new class
+ 67 | ERROR | [ ] Each class must be in a file by itself
+-------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 11 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-------------------------------------------------------------------------------------------------------------------------

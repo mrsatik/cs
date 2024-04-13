@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="mrsatik">
+    <description>PVP coding-style</description>
+    <rule ref="PSR12">
+        <exclude name="PSR1.Files.SideEffects.FoundWithSymbols" />
+    </rule>
+
+    <exclude-pattern>*vendor/*</exclude-pattern>
+    <exclude-pattern>*libraries/Tn/*</exclude-pattern>
+    <exclude-pattern>*cli/migrations/*</exclude-pattern>
+
+    <!-- straight compare -->
+    <rule ref="Squiz.Operators.ComparisonOperatorUsage"/>
+
+</ruleset>

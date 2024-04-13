@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------
+ 14 | ERROR | [x] Expected 1 newline at end of file; 0 found
+ 14 | ERROR | [x] A closing tag is not permitted at the end of a PHP file
+--------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+
+foreach ([__DIR__.'/../../../autoload.php', __DIR__.'/../vendor/autoload.php'] as $location){
+	if (file_exists($location)) {
+		require $location;
+		require dirname($location).'/squizlabs/php_codesniffer/autoload.php';
+		break;
+	}
+}
+
+require dirname(__DIR__)."/bootstrap.php";
+
+$runner   = new PHP_CodeSniffer\Runner();
+$exitCode = $runner->runPHPCS();
+exit($exitCode);

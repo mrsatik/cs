@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------
+FOUND 7 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 3 | ERROR | [ ] Operator == prohibited; use === instead
+ 4 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+ 4 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+ 4 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found 1
+ 6 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+ 6 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+ 6 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found 1
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 6 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------

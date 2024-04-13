@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------
+  5 | ERROR | [x] Header blocks must be separated by a single blank line
+ 12 | ERROR | [x] Parentheses must be used when instantiating a new class
+--------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------

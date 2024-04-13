@@ -1,0 +1,7 @@
+-----------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 2 WARNINGS AFFECTING 3 LINES
+-----------------------------------------------------------------------------------------------------
+ 10 | WARNING | Property name "$_b" should not be prefixed with an underscore to indicate visibility
+ 11 | WARNING | Property name "$_c" should not be prefixed with an underscore to indicate visibility
+ 25 | ERROR   | Method name "_getB" must not be prefixed with an underscore to indicate visibility
+-----------------------------------------------------------------------------------------------------

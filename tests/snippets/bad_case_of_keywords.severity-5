@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------
+FOUND 9 ERRORS AND 1 WARNING AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------
+ 3 | ERROR   | [x] PHP keywords must be lowercase; expected "if" but found "IF"
+ 3 | ERROR   | [x] IF keyword must be lowercase; expected "if" but found "IF"
+ 3 | ERROR   | [x] TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+ 4 | ERROR   | [x] TRUE, FALSE and NULL must be lowercase; expected "null" but found "NULL"
+ 5 | WARNING | [x] Usage of ELSE IF is discouraged; use ELSEIF instead
+ 5 | ERROR   | [x] PHP keywords must be lowercase; expected "else" but found "ELSE"
+ 5 | ERROR   | [x] ELSE keyword must be lowercase; expected "else" but found "ELSE"
+ 5 | ERROR   | [x] PHP keywords must be lowercase; expected "if" but found "IF"
+ 5 | ERROR   | [x] IF keyword must be lowercase; expected "if" but found "IF"
+ 5 | ERROR   | [x] TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 10 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------

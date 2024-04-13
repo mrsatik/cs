@@ -1,0 +1,10 @@
+
+------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+------------------------------------------------------------------------------
+ 3 | ERROR | [x] Expected 1 space(s) after closing parenthesis; found newline
+ 6 | ERROR | [x] Expected 1 space after closing brace; newline found
+ 7 | ERROR | [x] Expected 1 space(s) after ELSE keyword; newline found
+------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 5 LINES
+----------------------------------------------------------------------
+  3 | ERROR | [x] using \Exception when already inside the  namespace
+    |       |     is unnecessary
+  6 | ERROR | [x] AcceptanceTest is unused
+  8 | ERROR | [ ] Each class must be in a namespace of at least one
+    |       |     level (a top-level vendor name)
+ 10 | ERROR | [x] There must not be a space before the colon in a
+    |       |     return type declaration
+ 11 | ERROR | [x] Expected 1 newline at end of file; 0 found
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 4 MARKED SNIFF VIOLATIONS AUTOMATICALLY

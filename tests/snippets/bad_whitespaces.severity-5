@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------
+FOUND 10 ERRORS AFFECTING 5 LINES
+---------------------------------------------------------------------------------
+  3 | ERROR | [x] Whitespace found at end of line
+  5 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+  5 | ERROR | [x] Spaces must be used to indent lines; tabs are not allowed
+  8 | ERROR | [x] Expected 1 space(s) after IF keyword; 0 found
+  8 | ERROR | [x] Expected 1 space(s) after closing parenthesis; found 0
+  9 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found 2
+ 11 | ERROR | [x] Expected 1 space after closing brace; 0 found
+ 11 | ERROR | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 11 | ERROR | [x] Newline required after opening brace
+ 11 | ERROR | [x] Closing brace must be on a line by itself
+---------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 10 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+---------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+----------------------------------------------------------------------
+FOUND 6 ERRORS AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 3 | ERROR | [x] Expected at least 1 space before "="; 0 found
+ 3 | ERROR | [x] Expected at least 1 space after "="; 0 found
+ 3 | ERROR | [x] Expected at least 1 space before "="; 0 found
+ 3 | ERROR | [x] Expected at least 1 space after "="; 0 found
+ 3 | ERROR | [x] Expected 1 newline at end of file; 0 found
+ 3 | ERROR | [x] Each PHP statement must be on a line by itself
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 6 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------

@@ -1,0 +1,6 @@
+------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+------------------------------------------------------------------------
+ 3 | ERROR | Implicit true comparisons prohibited; use === TRUE instead
+ 7 | ERROR | Operator == prohibited; use === instead
+------------------------------------------------------------------------
